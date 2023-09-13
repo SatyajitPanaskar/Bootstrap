@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.left{
+    margin: 20px 10px;
+    background-color: #845EC2;
+    height: 300px;
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+    border: 2px solid black;
+
+}
+.main{
+    margin: 20px 10px;
+    background-color: #86A8E7;
+    height: 300px;
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+    border: 2px solid black;
+
+}
+.right{
+    text-align: center;
+    font-size: large;
+    text-transform: uppercase;
+    border: 2px solid black;
+    margin: 20px 10px;
+    background-color: #5FFBF1;
+    height: 300px;
+
+}

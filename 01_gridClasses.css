@@ -1,0 +1,12 @@
+.cutomDiv{
+    background-color: rgb(244, 116, 116);
+    height: 300px;
+    border: 2px solid rgb(96, 39, 39);
+    margin-top: 20px;
+    
+}
+h1{
+    text-align: center;
+    color: red;
+   
+}
